@@ -1,0 +1,4 @@
+com/wandosea/admin/web/dto/HelloResponseDtoTest.java
+ com.wandosea.admin.web.dto.HelloResponseDtoTest
+com/wandosea/admin/web/HelloControllerTest.java
+ com.wandosea.admin.web.HelloControllerTest
